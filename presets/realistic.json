@@ -46,7 +46,7 @@
     "lora_downloads": {
         "SDXL_FILM_PHOTOGRAPHY_STYLE_BetaV0.4.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/SDXL_FILM_PHOTOGRAPHY_STYLE_BetaV0.4.safetensors",
         "realcartoon-xl-v4.safetensors":"https://huggingface.co/stablediffusionapi/realcartoon-xl-v4",
-        "realcartoon-xl-v4.safetensors":"https://huggingface.co/stablediffusionapi/joachimsallstrom/aether-bubbles-foam-lora-for-sdxl",
+        "aether-bubbles-foam.safetensors":"https://huggingface.co/stablediffusionapi/joachimsallstrom/aether-bubbles-foam-lora-for-sdxl",
         
     }
 }
